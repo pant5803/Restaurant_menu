@@ -1,0 +1,18 @@
+.s1{
+    width: 18rem;
+}
+.C2{
+    margin-left: 80%;
+}
+.ch{
+    background-color: black;
+}
+.cr{
+    color: aliceblue;
+}
+.cr:hover{
+    color: antiquewhite;
+}
+.cz{
+    margin-left: 2rem;
+}
